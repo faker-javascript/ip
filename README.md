@@ -1,6 +1,6 @@
 <h1 align="center">IP</h1>
 <p align="center">
-Fake IP package provides functionality to generate a fake ip value.
+IP package provides functionality to generate a fake ip value.
 </p>
 
 <p align="center">
