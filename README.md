@@ -9,7 +9,7 @@ Fake IP package provides functionality to generate a fake ip value.
 ## Install
 
 ```
-$ npm install --save @faker-javascript/ip
+$ npm install --save @fakerjs/ip
 ```
 
 ## Usage
