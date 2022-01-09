@@ -1,7 +1,7 @@
-import fakeIP from './index.js';
+import ip from './index.js';
 import test from 'ava';
 
-test('fakeIP return type to be string', t => {
-	t.is(typeof fakeIP(), 'string');
+test('ip return type to be string', t => {
+	t.is(typeof ip(), 'string');
 });
 

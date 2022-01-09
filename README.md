@@ -15,9 +15,9 @@ $ npm install --save @fakerjs/ip
 ## Usage
 
 ```js
-import fakeIP from '@fakerjs/ip';
+import ip from '@fakerjs/ip';
 
-fakeIP();
+ip();
 //=> 168.195.165.81
 ```
 
