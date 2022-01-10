@@ -1,6 +1,6 @@
 {
   "name": "@fakerjs/ip",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "IP package provides functionality to generate a fake ip value.",
   "license": "MIT",
   "repository": "faker-javascript/ip",
